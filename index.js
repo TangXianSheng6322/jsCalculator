@@ -4,9 +4,9 @@ function appendToDisplay(input) {
     display.value += input;
 };
 
-function clear() {
+function clearD() {
     display.value = "";
-}
+};
 
 function calculate() {
     try {
